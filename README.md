@@ -1,6 +1,6 @@
 rohitkumar
 <h1 align="center">Hi 👋, I'm Rohit Kumar</h1>
-<h3 align="center">Aspiring Data Engineer | Azure | SQL | Python | Power BI</h3>
+<h3 align="center">Data Engineer | Azure | SQL | Python | Power BI</h3>
 
 ---
 
