@@ -1,6 +1,6 @@
 rohitkumar
 <h1 align="center">Hi 👋, I'm Rohit Kumar</h1>
-<h3 align="center">Data Engineer | Azure | SQL | Python | Power BI</h3>
+<h3 align="center">I am a passionate Data Engineer with over 3 years of experience turning raw data into meaningful insights. I work with modern tools like Azure Data Factory, Databricks, Azure Synapse Analytics, Medallion architecture, and the Data Lakehouse to build efficient data pipelines and solutions in the cloud. I love learning and continuously improving my skills to stay up-to-date with the latest in the field.</h3>
 
 ---
 
