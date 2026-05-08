@@ -12,7 +12,7 @@ rohitkumar
 - 💡 Interested in **Data Engineering, ETL Pipelines & Cloud Technologies**
 - 📊 Skilled in **SQL, Python, Power BI, Pandas, Tableau**
 - ☁️ Working with **Azure Data Factory, Azure Data Lake, Databricks**
-- 📫 Reach me at: **yourmail@gmail.com**
+- 📫 Reach me at: **rohit.@gmail.com**
 - 💼 Open to **Data Engineer / Data Analyst opportunities**
 
 ---
